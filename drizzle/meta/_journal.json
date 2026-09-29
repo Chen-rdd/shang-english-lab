@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786114382803,
+      "tag": "0000_jittery_human_torch",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786115927369,
+      "tag": "0001_aromatic_swarm",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786163111692,
+      "tag": "0002_same_lionheart",
+      "breakpoints": true
+    }
+  ]
+}
